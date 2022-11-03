@@ -1,1 +1,1 @@
-# Bu projede üşke listeleri "https://restcountries.com/v2/all" adresinden Axios kullanılarak alınmış ve filtreleme fonksiyonu eklenmiştir. Props'lar ile 2 farklı component App component'inde birleştirilmiştir.
+# Bu projede ülke listeleri "https://restcountries.com/v2/all" adresinden Axios kullanılarak alınmış ve filtreleme fonksiyonu eklenmiştir. Props'lar ile 2 farklı component App component'inde birleştirilmiştir.
